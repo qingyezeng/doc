@@ -1,4 +1,4 @@
-# Project documentation module
+# Project documentation module 
 
 The documentation use [RST format](http://sphinx-doc.org/rest.html).
 
@@ -14,3 +14,5 @@ To build the documentation, run:
 ```
 mvn clean install
 ```
+
+Connect to Readthedocs.
